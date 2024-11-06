@@ -13,8 +13,8 @@ Check all the class content. Let me know if you face any issue accessing them.
 
 ## What will you do as homework?
 
-- Install XAMPP and VSCode
-- Make the necessary modifications for XAMPP as shown in the class
+- Install [XAMPP](https://www.apachefriends.org/) and [VSCode](https://code.visualstudio.com/).
+- Make the necessary modifications for XAMPP as shown in the class.
 - Solve the problems given [here](#what-will-you-do-as-homework).
 
 That's it for today! 😊 

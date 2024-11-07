@@ -16,13 +16,11 @@ I will update the counselling hour later. In the meantime, if you need me, then 
 
 ## Group Chat
 
-A group chat has been created, and we have two CRs (Class Representative) named **Md. Shakibul Hassan Prince** and **--**.
+A group chat has been created, and we have two CRs (Class Representative) named **Md. Shakibul Hassan Prince** and **Fairuz Humaira Faiza**.
 
-The link will be added in this site after I receive the joining link from our CRs.
+> If you can't see the earlier important messages for joining later, you can ask anyone there to repeat the earlier messages for you. Also, the website will stay updated. I will also add all the content in the LMS once it is available online.
 
-<!-- > If you can't see the earlier important messages for joining later, you can ask anyone there to repeat the earlier messages for you. Also, the website will stay updated. I will also add all the content in the LMS once it is available online.
-
-The joining link is given **[here](https://chat.whatsapp.com/Gn19ezgEwR43LEmKbYCcNg).** -->
+The joining link is given **[here](https://chat.whatsapp.com/CSnLGp0FyPKFjh7cSAHEuT).**
 
 If you need any help, then you can directly reach out to me. I always try to be helpful towards you as a faculty, you all are my responsibility.
 

@@ -1,41 +1,13 @@
-# Website
+# DBMS - J Course Website (Fall 2024)
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+![Banner](./static/img/banner.png)
 
-### Installation
+## Used Technologies
 
-```
-$ yarn
-```
+- Docusaurus
 
-### Local Development
+## Contribution
 
-```
-$ yarn start
-```
+This repository is not meant to be an open source project even though the codebase is currently made available for the public. Therefore, no pull requests would be considered here other than the repository owner himself.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+However, if you see anything important that the repository owner needs to know, then simply reach out to the repository owner via email at [fahimbinamin at gmail dot com](mailto:fahimbinamin@gmail.com).
